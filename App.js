@@ -16,12 +16,12 @@ const styles = StyleSheet.create({
   container: {
     paddingTop: 40,
     paddingHorizonte: 15,
-    backgroundColor: '#05b0ab',
+    backgroundColor: 'tomato',
     alignItems: 'center',
     justifyContent: 'center',
   },
   fonteBlue: {
-    color: 'Blue',
+    color: 'blue',
     fontWeight: 'bold',
     fontSize: 30,
   },

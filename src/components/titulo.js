@@ -13,7 +13,7 @@ export default Titulo
 
 const styles = StyleSheet.create({
     fonteBlue: {
-        color: 'Blue',
+        color: 'blue',
         fontWeight: 'bold',
         fontSize: 30,
     },
